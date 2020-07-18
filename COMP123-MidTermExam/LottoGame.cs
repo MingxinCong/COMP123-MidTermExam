@@ -152,7 +152,7 @@ namespace COMP123_MidTermExam
 
         // CREATE the public PickElements method here ----------------------------
         /*
-         * build the _elementList with a set of random numbers
+         * build the _elementList with a set of random numbers.
          */
         public void PickElements()
         {
