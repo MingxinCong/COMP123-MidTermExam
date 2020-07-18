@@ -169,6 +169,7 @@ namespace COMP123_MidTermExam
                 ElementList.Add(NumberList[randomPosition]);
                 NumberList.RemoveAt(randomPosition);
             }
+
             ElementList.Sort();
         }
     }
