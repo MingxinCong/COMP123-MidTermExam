@@ -40,7 +40,7 @@ namespace COMP123_MidTermExam
         /**
          * <summary>
          * This utility method creates a console menu that allows the user to choose
-         * a Lotto game to execute.
+         * a Lotto game to execute
          * </summary>
          * 
          * @static
